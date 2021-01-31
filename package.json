@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "an Express.js application that can be used to write, save and retrieve notes from a JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "Russ Tracy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussTracy/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RussTracy/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/RussTracy/Note-Taker#readme"
+}
