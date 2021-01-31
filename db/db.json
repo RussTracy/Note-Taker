@@ -1,29 +1,19 @@
 {
-  "notes": [
-    {
-      "title": "New Note 1",
-      "text": "this is a new note",
-      "id": "0"
-    },
-    {
-      "title": "New Note 3",
-      "text": "this is a new note",
-      "id": "2"
-    },
-    {
-      "title": "New Note 4",
-      "text": "this is a new note",
-      "id": "3"
-    },
-    {
-      "title": "Test Note",
-      "text": "New note",
-      "id": "1612048223163"
-    },
-    {
-      "title": "Test Note 2",
-      "text": "New test",
-      "id": "1612048263125"
-    }
-  ]
+    "notes": [
+        {
+            "title": "Call Home",
+            "text": "Please call home before 6:00!",
+            "id": "1612123580004"
+        },
+        {
+            "title": "Finish Homework",
+            "text": "Take time to finish your homework!",
+            "id": "1612124001262"
+        },
+        {
+            "title": "Go to Store",
+            "text": "Pick up some milk on the way home from work",
+            "id": "1612124022962"
+        }
+    ]
 }
